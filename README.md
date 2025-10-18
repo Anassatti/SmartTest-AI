@@ -28,3 +28,9 @@ SmartTest AI is a comprehensive, AI-powered software testing platform that strea
 <img width="1906" height="850" alt="image" src="https://github.com/user-attachments/assets/3ef3cc9f-00e9-4fb6-9d24-9ee029396459" />
 
 
+# Smart Test AI Modules
+<img width="1894" height="779" alt="image" src="https://github.com/user-attachments/assets/d2430680-0bd5-4dcc-a4de-222b9da7db00" />
+
+
+
+
