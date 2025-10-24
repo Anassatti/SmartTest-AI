@@ -11,7 +11,7 @@ SmartTest AI helps teams reduce testing time, cut costs, and improve software qu
 
 # AI-Powered Test Design
 
-Test Case Generation: Instantly generate comprehensive test cases from user stories, requirements, or UI screenshots using AI.
+*Test Case Generation:* Instantly generate comprehensive test cases from user stories, requirements, or UI screenshots using AI.
 
 Test Data Generation: Create realistic, reusable datasets tailored to each testing scenario.
 
