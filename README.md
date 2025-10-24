@@ -74,7 +74,8 @@ Bugsy guides testers, answers questions, and suggests actions — from generatin
 With its floating chat icon and smart prompts, Bugsy ensures testing feels intuitive, fast, and even fun.
 
 # Core Advantages
-<img width="633" height="300" alt="image" src="https://github.com/user-attachments/assets/dba0b67f-c3ee-49f4-bd7e-996474b1f22c" />
+<img width="731" height="434" alt="image" src="https://github.com/user-attachments/assets/3897b2c3-3e69-4b7b-a4e8-b57a0dcdbe1a" />
+
 
 
 # Why SmartTest AI Is Unique
